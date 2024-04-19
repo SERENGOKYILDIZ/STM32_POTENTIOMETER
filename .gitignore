@@ -1,6 +1,5 @@
 # https://github.com/github/gitignore/blob/master/C.gitignore
 
-# Eclipse
 .metadata/
 .settings/
 *.launch
