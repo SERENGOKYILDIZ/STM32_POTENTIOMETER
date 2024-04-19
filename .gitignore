@@ -2,6 +2,10 @@
 
 .metadata/
 .settings/
+Debug/
+.project
+.cproject
+.mxproject
 *.launch
 *.ld
 
