@@ -1,6 +1,12 @@
 # https://github.com/github/gitignore/blob/master/C.gitignore
 
-/.settings
+# Eclipse
+.metadata
+.settings
+[Rr]elease
+[Dd]ebug
+.launch
+
 # Prerequisites
 *.d
 
